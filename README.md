@@ -11,3 +11,5 @@ Arguments:
 -c :    (to be added in V1.1) crunch mode - no wordlist is used, instead crunch is used to generate words
 -v :    verbose mode
 -help : displays help page
+
+![TerminalPicture01](https://user-images.githubusercontent.com/63007162/80767661-521cac00-8b40-11ea-9c6b-f6759687b1d1.png)
