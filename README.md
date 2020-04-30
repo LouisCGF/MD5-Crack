@@ -2,7 +2,7 @@
 A command line tool for cracking MD5 hashes
 
 Usage:
-python3 MD5-CrackV1.0.py <arguments>
+python3 MD5-CrackV1.0.py [arguments]
   
 Arguments:
 -h :    specify MD5 hash to crack
