@@ -13,3 +13,5 @@ Arguments:
 -help : displays help page
 
 ![TerminalPicture01](https://user-images.githubusercontent.com/63007162/80767661-521cac00-8b40-11ea-9c6b-f6759687b1d1.png)
+
+![TerminalPicture02](https://user-images.githubusercontent.com/63007162/80767686-682a6c80-8b40-11ea-83ff-5be083b4cb78.png)
